@@ -588,6 +588,12 @@ section#featured h4.subtitle  {
 	font-family: Arial, Tahoma, Verdana, Sans-serif;
 	text-transform:none;
 	color:#f8f8f8;
+	    font-family: Arial, Tahoma, Verdana, Sans-serif;
+    text-transform: none;
+    color: #7b47b3;
+    background: #ffffffcf;
+    border-radius: 50px;
+    padding: 10px;
 }
 
 section#featured p  {
